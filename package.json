@@ -1,0 +1,19 @@
+{
+  "name": "chen-image-loader",
+  "version": "1.0.1",
+  "description": "图片预加载",
+  "main": "chen-image-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjinxinlove/chen-image-loader.git"
+  },
+  "author": "chenjinxinlove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjinxinlove/chen-image-loader/issues"
+  },
+  "homepage": "https://github.com/chenjinxinlove/chen-image-loader#readme"
+}
